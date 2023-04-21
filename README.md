@@ -3,7 +3,7 @@
 ![gifpf](https://user-images.githubusercontent.com/116447598/233531909-870673ca-a9d9-4b2f-8083-e2fb376c5f93.gif)
 
 
-Este proyecto utilizo las siguientes dependecias instaladas por node:
+## Este proyecto utilizo las siguientes dependecias instaladas por node:
 
    ### `bootstrap: "5.3.0-alpha1"`
    ### `firebase: "9.20.0"`
